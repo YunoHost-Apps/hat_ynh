@@ -1,0 +1,44 @@
+{
+    "name": "Hat.sh",
+    "id": "hat",
+    "packaging_format": 1,
+    "description": {
+        "en": "Encrypt and Decrypt files securely in your browser",
+        "fr": "Chiffrer et déchiffrer les fichiers en toute sécurité dans votre navigateur"
+    },
+    "version": "2.3.5~ynh1",
+    "url": "https://hat.sh",
+    "upstream": {
+        "license": "MIT",
+        "website": "hat.sh",
+        "demo": "https://hat.sh",
+        "admindoc": "https://hat.sh/about/",
+        "userdoc": "https://yunohost.org/apps",
+        "code": "https://github.com/sh-dv/hat.sh"
+    },
+    "license": "MIT",
+    "maintainer": {
+        "name": "",
+        "email": ""
+    },
+    "requirements": {
+        "yunohost": ">= 4.3.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "default": true
+            }
+        ]
+    }
+}
