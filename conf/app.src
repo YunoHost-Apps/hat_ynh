@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/sh-dv/hat.sh/archive/refs/tags/v2.3.5.zip
-SOURCE_SUM=22e20d40c05137c6112b6350b9d8571a094ff8248143bd036234f73a87b441ec
+SOURCE_URL=https://github.com/sh-dv/hat.sh/archive/refs/tags/v2.3.6.zip
+SOURCE_SUM=04f57d2d621e73faced46bf8738f921d5d2ca99e5ac37a41ff5391e3aa27e8f1
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
