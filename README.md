@@ -41,6 +41,7 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 
 **Shipped version:** 2.3.6~ynh1
 
+
 **Demo:** https://hat.sh
 
 ## Screenshots

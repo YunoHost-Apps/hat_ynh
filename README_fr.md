@@ -39,7 +39,8 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 - Password strength estimation.
 
 
-**Version incluse :** 2.3.6~ynh1
+**Version incluse :** 2.3.6~ynh1
+
 
 **Démo :** https://hat.sh
 
