@@ -1,0 +1,1 @@
+Hat.sh requires a dedicated domain or subdomain.

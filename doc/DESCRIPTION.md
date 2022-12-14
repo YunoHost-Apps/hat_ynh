@@ -2,6 +2,8 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 
 ### Features
 
+Hat.sh requires a dedicated domain or subdomain.
+
 #### Security
 
 - XChaCha20-Poly1305 - for symmetric encryption.
