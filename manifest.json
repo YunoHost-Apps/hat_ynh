@@ -13,7 +13,6 @@
         "website": "hat.sh",
         "demo": "https://hat.sh",
         "admindoc": "https://hat.sh/about/",
-        "userdoc": "https://yunohost.org/apps",
         "code": "https://github.com/sh-dv/hat.sh"
     },
     "license": "MIT",
