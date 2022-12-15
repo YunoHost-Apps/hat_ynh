@@ -45,12 +45,14 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 
 ## Captures d'écran
 
-![Capture d'écran de Hat.sh](./doc/screenshots/screenshot.gif)
+![Capture d'écran de Hat.sh](./doc/screenshots/screenshot.png)
 
+## Avertissements / informations importantes
+
+Hat.sh requires a dedicated domain or subdomain.
 ## Documentations et ressources
 
 * Site officiel de l'app : <hat.sh>
-* Documentation officielle utilisateur : <https://yunohost.org/apps>
 * Documentation officielle de l'admin : <https://hat.sh/about/>
 * Dépôt de code officiel de l'app : <https://github.com/sh-dv/hat.sh>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_hat>
