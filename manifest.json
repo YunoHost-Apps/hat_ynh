@@ -6,7 +6,7 @@
         "en": "Encrypt and Decrypt files securely in your browser",
         "fr": "Chiffrer et déchiffrer les fichiers en toute sécurité dans votre navigateur"
     },
-    "version": "2.3.6~ynh1",
+    "version": "2.3.6~ynh2",
     "url": "https://hat.sh",
     "upstream": {
         "license": "MIT",
