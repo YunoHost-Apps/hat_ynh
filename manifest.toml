@@ -39,6 +39,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://github.com/sh-dv/hat.sh/archive/refs/tags/v2.3.6.zip"
         sha256 = "04f57d2d621e73faced46bf8738f921d5d2ca99e5ac37a41ff5391e3aa27e8f1"
+        autoupdate.strategy = "latest_github_tag"
 
     [resources.ports]
 
