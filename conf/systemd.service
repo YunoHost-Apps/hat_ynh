@@ -10,7 +10,10 @@ Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
 Environment=PATH=__ENV_PATH__
 #Environment=NODE_ENV=production
-ExecStart=__YNH_NPM__ run start -p __PORT__
+
+ExecStart=__YNH_NPM__ run next start -p __PORT__
+
+#ExecStart=__YNH_NPM__ run start
 
 # Sandboxing options to harden security
 # Depending on specificities of your service/app, you may need to tweak these
