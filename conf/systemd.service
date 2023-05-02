@@ -6,11 +6,11 @@ After=network.target
 Type=simple
 User=__APP__
 Group=__APP__
-Environment="NODE_PORT=__PORT__"
+#Environment="NODE_PORT=__PORT__"
 WorkingDirectory=__INSTALL_DIR__/
 Environment=PATH=__ENV_PATH__
-Environment=NODE_ENV=production
-ExecStart=__YNH_NPM__ run start
+#Environment=NODE_ENV=production
+ExecStart=__YNH_NPM__ run start -p __PORT__
 
 # Sandboxing options to harden security
 # Depending on specificities of your service/app, you may need to tweak these
