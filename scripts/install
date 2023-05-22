@@ -49,6 +49,10 @@ pushd $install_dir
 	ynh_exec_warn_less sudo -u $app env $ynh_node_load_PATH npm run build
 popd
 
+chmod -R 750 "$install_dir"
+chmod -R o-rwx "$install_dir"
+chown -R $app:www-data "$install_dir"
+
 #=================================================
 # SETUP SYSTEMD
 #=================================================
