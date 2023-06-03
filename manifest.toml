@@ -42,6 +42,7 @@ ram.runtime = "50M"
         autoupdate.strategy = "latest_github_tag"
 
     [resources.ports]
+    main.default = 3991
 
     [resources.system_user]
 
