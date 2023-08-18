@@ -65,7 +65,7 @@ env_path="$PATH"
 # Create a dedicated systemd config
 ynh_add_systemd_config
 
-yunohost service add $app --description="Encrypt and Decrypt files securely" --log="/var/log/$app/$app.log"
+yunohost service add $app --description="Encrypt and decrypt files securely" --log="/var/log/$app/$app.log"
 
 #=================================================
 # START SYSTEMD SERVICE

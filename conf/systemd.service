@@ -1,5 +1,5 @@
 [Unit]
-Description=Hat.sh: Encrypt and Decrypt files securely
+Description=Hat.sh: encrypt and decrypt files securely
 After=network.target
 
 [Service]
