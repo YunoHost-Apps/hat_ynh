@@ -5,35 +5,32 @@ It shall NOT be edited by hand.
 
 # Hat.sh pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/hat.svg)](https://dash.yunohost.org/appci/app/hat) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/hat.svg)](https://dash.yunohost.org/appci/app/hat) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
+
 [![Installer Hat.sh avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=hat)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Hat.sh rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Hat.sh rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
-Hat.sh is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
-
+Hat.sh est une application Web qui fournit un chiffrement local sécurisé des fichiers dans le navigateur. Il est rapide, sécurisé et utilise des algorithmes cryptographiques modernes avec un chiffrement/déchiffrement de flux AEAD fragmenté.
 
 **Version incluse :** 2.3.6~ynh2
 
 **Démo :** https://hat.sh
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Hat.sh](./doc/screenshots/screenshot.png)
+![Capture d’écran de Hat.sh](./doc/screenshots/screenshot.png)
 
-## Avertissements / informations importantes
-
-Hat.sh requires a dedicated domain or subdomain.
 ## Documentations et ressources
 
-* Site officiel de l'app : <hat.sh>
-* Documentation officielle de l'admin : <https://hat.sh/about/>
-* Dépôt de code officiel de l'app : <https://github.com/sh-dv/hat.sh>
+* Site officiel de l’app : <hat.sh>
+* Documentation officielle de l’admin : <https://hat.sh/about/>
+* Dépôt de code officiel de l’app : <https://github.com/sh-dv/hat.sh>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_hat>
 * Signaler un bug : <https://github.com/YunoHost-Apps/hat_ynh/issues>
 
@@ -49,4 +46,4 @@ ou
 sudo yunohost app upgrade hat -u https://github.com/YunoHost-Apps/hat_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
