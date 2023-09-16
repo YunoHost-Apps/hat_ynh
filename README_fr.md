@@ -16,8 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Hat.sh is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
-
+Hat.sh est une application Web qui fournit un chiffrement local sécurisé des fichiers dans le navigateur. Il est rapide, sécurisé et utilise des algorithmes cryptographiques modernes avec un chiffrement/déchiffrement de flux AEAD fragmenté.
 
 **Version incluse :** 2.3.6~ynh2
 
@@ -27,9 +26,6 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 
 ![Capture d’écran de Hat.sh](./doc/screenshots/screenshot.png)
 
-## Avertissements / informations importantes
-
-Hat.sh requires a dedicated domain or subdomain.
 ## Documentations et ressources
 
 * Site officiel de l’app : <hat.sh>
