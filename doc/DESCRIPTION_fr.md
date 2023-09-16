@@ -1,0 +1,1 @@
+Hat.sh est une application Web qui fournit un chiffrement local sécurisé des fichiers dans le navigateur. Il est rapide, sécurisé et utilise des algorithmes cryptographiques modernes avec un chiffrement/déchiffrement de flux AEAD fragmenté.
