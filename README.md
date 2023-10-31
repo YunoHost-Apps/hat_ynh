@@ -32,7 +32,7 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 * Official app website: <hat.sh>
 * Official admin documentation: <https://hat.sh/about/>
 * Upstream app code repository: <https://github.com/sh-dv/hat.sh>
-* YunoHost documentation for this app: <https://yunohost.org/app_hat>
+* YunoHost Store: <https://apps.yunohost.org/app/hat>
 * Report a bug: <https://github.com/YunoHost-Apps/hat_ynh/issues>
 
 ## Developer info
