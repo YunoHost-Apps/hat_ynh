@@ -31,7 +31,7 @@ Hat.sh est une application Web qui fournit un chiffrement local sécurisé des f
 * Site officiel de l’app : <hat.sh>
 * Documentation officielle de l’admin : <https://hat.sh/about/>
 * Dépôt de code officiel de l’app : <https://github.com/sh-dv/hat.sh>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_hat>
+* YunoHost Store: <https://apps.yunohost.org/app/hat>
 * Signaler un bug : <https://github.com/YunoHost-Apps/hat_ynh/issues>
 
 ## Informations pour les développeurs
