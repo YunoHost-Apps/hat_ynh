@@ -5,7 +5,7 @@ name = "Hat.sh"
 description.en = "Encrypt and Decrypt files securely in your browser"
 description.fr = "Chiffrer et déchiffrer les fichiers en toute sécurité dans votre navigateur"
 
-version = "2.3.6~ynh2"
+version = "v2.3.6~ynh1"
 
 maintainers = []
 
@@ -36,8 +36,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/sh-dv/hat.sh/archive/refs/tags/v2.3.6.zip"
-        sha256 = "04f57d2d621e73faced46bf8738f921d5d2ca99e5ac37a41ff5391e3aa27e8f1"
+        url = "https://github.com/sh-dv/hat.sh/archive/refs/tags/v2.3.6.tar.gz"
+        sha256 = "61012b0cb8127b5ff073e2aa489e88d750c0c1ed81f1e7115f1db03db974f64f"
         autoupdate.strategy = "latest_github_tag"
 
     [resources.ports]
