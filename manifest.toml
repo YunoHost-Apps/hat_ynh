@@ -5,7 +5,7 @@ name = "Hat.sh"
 description.en = "Encrypt and Decrypt files securely in your browser"
 description.fr = "Chiffrer et déchiffrer les fichiers en toute sécurité dans votre navigateur"
 
-version = "2.3.6~ynh2"
+version = "2.3.6~ynh3"
 
 maintainers = ["eric_G"]
 
