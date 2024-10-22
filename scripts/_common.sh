@@ -4,5 +4,4 @@
 # COMMON VARIABLES AND CUSTOM HELPERS
 #=================================================
 
-# nodejs version
-nodejs_version=20
+nodejs_version="20"

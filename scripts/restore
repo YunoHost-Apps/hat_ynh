@@ -11,13 +11,10 @@ ynh_script_progression "Restoring the app main directory..."
 ynh_restore "$install_dir"
 
 #=================================================
-# SPECIFIC RESTORATION
-#=================================================
 # REINSTALL DEPENDENCIES
 #=================================================
 ynh_script_progression "Reinstalling dependencies..."
 
-# Install Nodejs
 ynh_nodejs_install
 
 ynh_restore "/etc/nginx/conf.d/$domain.d/$app.conf"
