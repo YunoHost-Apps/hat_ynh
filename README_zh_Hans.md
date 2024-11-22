@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Hat.sh
 
-[![集成程度](https://dash.yunohost.org/integration/hat.svg)](https://dash.yunohost.org/appci/app/hat) ![工作状态](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/hat.svg)](https://ci-apps.yunohost.org/ci/apps/hat/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
 
 [![使用 YunoHost 安装 Hat.sh](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=hat)
 
@@ -19,7 +19,7 @@
 Hat.sh is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
 
 
-**分发版本：** 2.3.6~ynh3
+**分发版本：** 2.3.6~ynh4
 
 **演示：** <https://hat.sh>
 

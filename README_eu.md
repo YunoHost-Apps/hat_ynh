@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Hat.sh YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/hat.svg)](https://dash.yunohost.org/appci/app/hat) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/hat.svg)](https://ci-apps.yunohost.org/ci/apps/hat/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
 
 [![Instalatu Hat.sh YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=hat)
 
@@ -19,7 +19,7 @@ EZ editatu eskuz.
 Hat.sh is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
 
 
-**Paketatutako bertsioa:** 2.3.6~ynh3
+**Paketatutako bertsioa:** 2.3.6~ynh4
 
 **Demoa:** <https://hat.sh>
 
