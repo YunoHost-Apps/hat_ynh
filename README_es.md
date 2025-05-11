@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Hat.sh para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/hat.svg)](https://dash.yunohost.org/appci/app/hat) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/hat.svg)](https://ci-apps.yunohost.org/ci/apps/hat/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
 
 [![Instalar Hat.sh con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=hat)
 
@@ -19,7 +19,7 @@ No se debe editar a mano.
 Hat.sh is a web app that provides secure local file encryption in the browser. It's fast, secure, and uses modern cryptographic algorithms with chunked AEAD stream encryption/decryption.
 
 
-**Versión actual:** 2.3.6~ynh3
+**Versión actual:** 2.3.6~ynh4
 
 **Demo:** <https://hat.sh>
 
@@ -37,7 +37,7 @@ Hat.sh is a web app that provides secure local file encryption in the browser. I
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/hat_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/hat_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

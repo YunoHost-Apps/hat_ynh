@@ -5,7 +5,7 @@ Il NE doit PAS être modifié à la main.
 
 # Hat.sh pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/hat.svg)](https://dash.yunohost.org/appci/app/hat) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
+[![Niveau d’intégration](https://dash.yunohost.org/integration/hat.svg)](https://ci-apps.yunohost.org/ci/apps/hat/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/hat.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/hat.maintain.svg)
 
 [![Installer Hat.sh avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=hat)
 
@@ -18,7 +18,7 @@ Il NE doit PAS être modifié à la main.
 
 Hat.sh est une application Web qui fournit un chiffrement local sécurisé des fichiers dans le navigateur. Il est rapide, sécurisé et utilise des algorithmes cryptographiques modernes avec un chiffrement/déchiffrement de flux AEAD fragmenté.
 
-**Version incluse :** 2.3.6~ynh3
+**Version incluse :** 2.3.6~ynh4
 
 **Démo :** <https://hat.sh>
 
