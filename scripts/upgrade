@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 source /usr/share/yunohost/helpers
 
 #=================================================
@@ -23,8 +22,6 @@ ynh_setup_source --dest_dir="$install_dir" --full_replace --keep=".env"
 ynh_script_progression "Upgrading NGINX web server configuration..."
 
 ynh_config_add_nginx
-
-#REMOVEME? ynh_nodejs_install
 
 ynh_config_add_systemd
 
