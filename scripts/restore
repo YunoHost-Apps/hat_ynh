@@ -1,6 +1,5 @@
 #!/bin/bash
 
-source ../settings/scripts/_common.sh
 source /usr/share/yunohost/helpers
 
 #=================================================
@@ -14,8 +13,6 @@ ynh_restore "$install_dir"
 # REINSTALL DEPENDENCIES
 #=================================================
 ynh_script_progression "Reinstalling dependencies..."
-
-ynh_nodejs_install
 
 ynh_restore "/etc/nginx/conf.d/$domain.d/$app.conf"
 
